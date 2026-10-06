@@ -1,0 +1,11 @@
+{
+  "name": "pluto-espanol-nuevo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.12.2"
+  }
+}
