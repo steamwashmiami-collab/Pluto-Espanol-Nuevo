@@ -16,7 +16,7 @@ check(16);
 (async function() {
   const fs = require('fs');
   const config = require('./lib/config');
-  const plutotv = require('./lib/plutotv');
+  const plutotv = require('./lib/Plutotv');
   const server = require('./lib/server');
 
   config.loadConfig();
